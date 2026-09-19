@@ -1,0 +1,10 @@
+{
+	"UserName":"nyake123",
+	"ContactAddress1":"--",
+	"ContactAddress2":"--2",
+	"ContactAddress3":"--3",
+	"ContactAddress4":"--4",
+	"ContactAddress5":"--5",
+	"NearAddress":"-n1-",
+	"Note":"特になし"
+}
